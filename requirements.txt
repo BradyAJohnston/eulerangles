@@ -1,2 +1,2 @@
-numpy>=1.16
+numpy==1.24.2
 dataclasses; python_version < '3.7'
